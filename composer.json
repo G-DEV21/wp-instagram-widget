@@ -7,6 +7,10 @@
 		{
 			"name"    : "Scott Evans",
 			"homepage": "http://scott.ee/"
+		},
+		{
+			"name"    : "Jie Qiu",
+			"homepage": "https://github.com/G-DEV21"
 		}
 	],
 	"require": {
