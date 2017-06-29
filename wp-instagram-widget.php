@@ -41,7 +41,7 @@ function wpiw_init() {
 add_action( 'init', 'wpiw_init' );
 
 function wpiw_widget() {
-	require_once __DIR__ . '/null_instagram_widget.php';
+	require_once __DIR__ . '/null-instagram-widget.php';
 	register_widget( 'null_instagram_widget' );
 }
 add_action( 'widgets_init', 'wpiw_widget' );
